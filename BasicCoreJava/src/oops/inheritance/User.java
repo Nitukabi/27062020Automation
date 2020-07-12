@@ -7,7 +7,8 @@ public class User {
 		sm.calling();
 		sm.videoCalling();
 		sm.texting();
-		
+
+	
 		Mobile mob = new Mobile();
 		mob.calling();
 		mob.texting();

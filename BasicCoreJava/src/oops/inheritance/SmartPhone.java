@@ -6,4 +6,10 @@ public class SmartPhone extends Mobile{
 	{
 		System.out.println("Videocalling from smartphone");
 	}
+
+	public void calling()
+	{
+		System.out.println("calling from smartphone");
+	}
+
 }
