@@ -4,7 +4,7 @@ public interface CB {
 	
 	public static void CbOrders()
 	{
-		System.out.println("");
+		System.out.println("CB orders");
 	}
 
 }

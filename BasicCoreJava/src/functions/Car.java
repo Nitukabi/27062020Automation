@@ -10,8 +10,9 @@ public class Car {
 	}
 	public Car(String colour,int capacity)
 	{
-		colour = this.colour;
-		capacity = this.capacity;
+		//global instance variable  //local variable
+		this.colour     =                 colour;
+		this.capacity  =               capacity;
 	}
 	public Car()
 	{

@@ -1,0 +1,27 @@
+package exceptionHandling;
+
+public class ExceptionClass1 {
+
+	public static Functions fun;
+
+	public static void main(String[] args) {
+		
+		// 1st exception :
+		int a=10;
+		int b=0;
+		System.out.println(a/b);
+		
+		// 2nd exception
+		/*String [] str= new String[2];
+		str[2]="nitu";*/
+		
+		// 3rd Exception
+		// fun.fun1();
+		
+		
+		
+		
+
+	}
+
+}

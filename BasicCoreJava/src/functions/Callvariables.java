@@ -8,7 +8,7 @@ public class Callvariables {
 		
 		//change the values
 		obj.name= "ajinkya";
-		obj.name2 = "kavya";
+
 		
 		// create a new object
 		Variables ref = new Variables();
@@ -17,8 +17,7 @@ public class Callvariables {
 		System.out.println(ref.name);
 		System.out.println(obj.name);
 		
-		System.out.println(ref.name2);
-		System.out.println(obj.name2);
+		
 		
 		
 		
